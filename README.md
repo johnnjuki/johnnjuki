@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnjuki&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnjuki&theme=dracula)](https://git.io/streak-stats)
+
+[![Jonnie's github activity graph](https://activity-graph.herokuapp.com/graph?username=johnjuki&bg_color=1F222E&color=00ffff&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
