@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=f75c7e)
 
-![](https://komarev.com/ghpvc/?johnjuki&color=ff69b4&style=plastic&label=)
+![](https://komarev.com/ghpvc/?username=johnjuki&color=ff69b4&style=plastic&label=)
