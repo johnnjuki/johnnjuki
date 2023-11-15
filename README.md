@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnjuki&theme=dracula)](https://git.io/streak-stats) -->
 
 <!--# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> -->
-<!-- ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=f75c7e) -->
 <img src="https://github.com/johnnjuki/johnnjuki/assets/84154246/4b44f523-f409-4719-8619-0e1d4b09b57c" width=35 height=25>
